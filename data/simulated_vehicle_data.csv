@@ -1,0 +1,5 @@
+
+# LIDAR, Camera, X, Y, Z, Heading, Velocity, Steering Angle
+0.21, 0.15, 10, 20, 30, 0.5, 0.8, 0.2
+0.35, 0.25, 11, 22, 31, 0.4, 0.85, 0.18
+...
